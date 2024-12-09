@@ -1,6 +1,6 @@
 # ninja log v6
-2	82	7554125825105390	CMakeFiles/01Recursion.Hanoi.dir/01Recursion/Hanoi.c.obj	a61701f385aead4
-83	175	7554125825909471	01Recursion.Hanoi.exe	d56b3d3736305269
+4	89	7554137080079283	CMakeFiles/01Recursion.Hanoi.dir/01Recursion/Hanoi.c.obj	a61701f385aead4
+90	189	7554137080933238	01Recursion.Hanoi.exe	d56b3d3736305269
 4	82	7554128911941551	CMakeFiles/01Recursion.Factorial.dir/01Recursion/Factorial.c.obj	5bbf973ae48a6d94
 118	248	7554128913084204	01Recursion.Factorial.exe	d4d175ef6c4f9a2a
 2	85	7554133630411185	CMakeFiles/01Recursion.Fibonacci.dir/01Recursion/Fibonacci.c.obj	730167be6619c47b
