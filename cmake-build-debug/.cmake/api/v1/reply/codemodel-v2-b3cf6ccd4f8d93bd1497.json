@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "algorithmDesign",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01Recursion.Factorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01Recursion.Factorial-Debug-1266bffb83038d9eeffb.json",
+					"name" : "01Recursion.Factorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01Recursion.Fibonacci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01Recursion.Fibonacci-Debug-ca9e20add6af8de56755.json",
+					"name" : "01Recursion.Fibonacci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01Recursion.Hanoi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01Recursion.Hanoi-Debug-9692413c2c22f32a577f.json",
+					"name" : "01Recursion.Hanoi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cmake-build-debug.CMakeFiles.3.30.5.CompilerIdC.CMakeCCompilerId::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cmake-build-debug.CMakeFiles.3.30.5.CompilerIdC.CMakeCCompilerId-Debug-f1773fecbf047d3fb52a.json",
+					"name" : "cmake-build-debug.CMakeFiles.3.30.5.CompilerIdC.CMakeCCompilerId",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CLion/WorkPlace/algorithmDesign/cmake-build-debug",
+		"source" : "D:/CLion/WorkPlace/algorithmDesign"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
